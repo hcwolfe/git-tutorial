@@ -1,2 +1,3 @@
 Git Tutorial
-Harrison Wolfe
+Harrison Wolfegit 
+Chicago Student Resource Guide
